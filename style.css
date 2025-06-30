@@ -2,7 +2,7 @@ table{
 color: #fff;
 text-align: center;
 border-collapse: collapse;
-font: normal 3cm Arial, Helvetica, sans-serif;
+font: normal 3em Arial, Helvetica, sans-serif;
 }
 
 tr{
@@ -19,7 +19,7 @@ td{
     background-color: #4e494d;
     text-align: left;
     width: 100%;
-    font-size: 2cm;
+    font-size: 2em;
     color: #fff;
     border: 0px;
 }
